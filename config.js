@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'i say baby please be my friend for life 🥰. Please by my side 😘😘 ',
     messDesc: ' anni 100days quen nhau nha bé Lu , mong là sẽ thêm nhiều số 0 đằng sau nha. ',
     btnAccept: 'dạaaaaaaa <3',
-    messLink: ' https://www.facebook.com/messages/t/100501728201770 ' 
-}
+    messLink: 'https://www.facebook.com/messages/t/100501728201770' 
+ }
