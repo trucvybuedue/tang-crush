@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Doãn à!',
+    introTitle: ' Doãn à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'i say baby please be my friend for life 🥰. Please by my side 😘😘',
-    messDesc: 'anni 100days quen nhau nha bé Lu , mong là sẽ thêm nhiều số 0 đằng sau nha.',
+    mess: 'i say baby please be my friend for life 🥰. Please by my side 😘😘 ',
+    messDesc: ' anni 100days quen nhau nha bé Lu , mong là sẽ thêm nhiều số 0 đằng sau nha. ',
     btnAccept: 'Okiiiii lun <3',
     messLink: ' https://www.messenger.com/t/100044381719018 ' 
     {
