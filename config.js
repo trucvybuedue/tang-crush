@@ -16,4 +16,4 @@ const CONFIG = {
     messDesc: ' anni 100days quen nhau nha bé Lu , mong là sẽ thêm nhiều số 0 đằng sau nha. ',
     btnAccept: 'Okiiiii lun <3',
     messLink: ' https://www.messenger.com/t/100044381719018 ' 
-    {
+}
